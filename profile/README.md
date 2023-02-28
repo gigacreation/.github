@@ -2,6 +2,6 @@
 
 # Thank you for visiting!
 
-My name is Gigacee. I am a freelance game developer. GIGA CREATION is my trade name.
+Hello! My name is [Gigacee](https://github.com/gigacee). I am a freelance game developer. GIGA CREATION is my trade name.
 
 Here I publish tools to help with game development. I hope these are helpful to you :sparkles:
